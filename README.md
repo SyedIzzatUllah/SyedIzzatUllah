@@ -44,7 +44,7 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 - :technologist: Developing Dapps and DAOs.
 - :technologist: Love data and extracting ans from it.
 - :man_office_worker: Product Manager 
-- :seedling: Exploring Technical Writing. 
+- :seedling: Exploring Technical Writing and creating tech content.
 
 - :zap: In my free time, I solve problems and read tech and economics articles.
 - :soccer: Passionate footbll fan. 
