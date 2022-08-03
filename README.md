@@ -40,7 +40,7 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building Web 3.0 applications.
 - :technologist: Deploying Smart Contracts on ETH Chain. 
-- :technologist: Exploring Web 3.0.
+- :technologist: Exploring Web 3.0 and Smart Contracts.
 - :technologist: Developing Dapps and DAOs.
 - :technologist: Love data and extracting ans from it.
 - :man_office_worker: Product Manager 
