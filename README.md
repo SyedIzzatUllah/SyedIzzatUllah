@@ -33,7 +33,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div> 
     
---- 
+---  
 
 ### :woman_technologist: About Me :
 I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.
@@ -43,8 +43,8 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 - :technologist: Exploring Web 3.0.
 - :technologist: Developing Dapps and DAOs.
 - :technologist: Love data and extracting ans from it.
-- :man_office_worker: Product Manager
-- :seedling: Exploring Technical Content Writing. 
+- :man_office_worker: Product Manager 
+- :seedling: Exploring Technical Writing. 
 
 - :zap: In my free time, I solve problems and read tech and economics articles.
 - :soccer: Passionate footbll fan. 
