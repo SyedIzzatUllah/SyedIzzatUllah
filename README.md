@@ -35,12 +35,12 @@
 ---  
 
 ### :woman_technologist: About Me :
-I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.
+I am a Software Engineer and Founder of 2x Products <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building Web 3.0 applications.
-- :technologist: Deploying Smart Contracts on ETH Chain. 
-- :technologist: Exploring Web 3.0 and Smart Contracts.
-- :technologist: Developing Dapps and DAOs.
+- :telescope: I’m working as a Software Engineer and Product Associate contributing to frontend and backend and building customer-oriented applications.
+- :technologist: Certified Product-Led Growth Specialist. 
+- :technologist: Exploring Web3, AI/ML and Smart Contracts.
+- :technologist: Developing models to extract data.
 - :technologist: Love data and extracting ans from it.
 - :man_office_worker: Product Manager 
 - :seedling: Exploring Technical Writing and creating tech content.
